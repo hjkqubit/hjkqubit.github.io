@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications≈ß≈ç
-years: [1956, 1950, 1935, 1905]
+title: publications
+years: [2020]
 nav: true
 ---
 
