@@ -56,8 +56,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: academic blog  # your blog must have a name for it to show up in the nav bar
+blog_description: a blog for physics and math related materials
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -120,7 +120,7 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
+  last_name: Kim
 
   style: apa
   locale: en
