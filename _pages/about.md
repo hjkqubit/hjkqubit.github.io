@@ -19,6 +19,6 @@ social: true
 
 I am a physics major at Williams College. My interests are in quantum computing and information, quantum control theory, and condensed matter theory. My current research deals with the optimal control and circuit synthesis for parametrically coupled transmon qubits and is supervised by Professor [Frederick W. Strauch](http://physics.williams.edu/profile/fws1/){:target="\_blank"}.
 
-[CV (Sept. 2020)](http://hjkqubit.github.io/assets/pdf/summer2019poster.pdf){:target="\_blank"}.
+[CV (Sept. 2020)](http://hjkqubit.github.io/assets/pdf/cv.pdf){:target="\_blank"}.
 
 My contacts are displayed below.
