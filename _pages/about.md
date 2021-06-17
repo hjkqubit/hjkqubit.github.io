@@ -12,6 +12,7 @@ news: true
 social: true
 ---
 
+
 I am a Physics Ph.D student at Boston University. My research interests are in quantum computing and condensed matter theory.
 
 I received my B.A. in Physics at Williams College.
