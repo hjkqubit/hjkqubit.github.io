@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-09-03 02:45:00+0900
+date: 2021-09-02 02:45:00+0900
 inline: true
 ---
 
-waddle waddle :penguin: :sparkles:
+I will be attending Boston University to pursue a Ph.D in Physics!
