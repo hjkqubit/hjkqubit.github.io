@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Transmon Qubits
-description: an ongoing research project supervised by Professor Frederick W. Strauch
+description: a research project on quantum computing supervised by Professor Frederick W. Strauch
 img:
 importance: 1
 ---
