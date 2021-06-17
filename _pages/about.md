@@ -12,8 +12,10 @@ news: true
 social: true
 ---
 
-I am a physics major at Williams College. My interests are in quantum computing and information, quantum control theory, and condensed matter theory. My current research deals with the optimal control and circuit synthesis for parametrically coupled transmon qubits and is supervised by Professor [Frederick W. Strauch](http://physics.williams.edu/profile/fws1/){:target="\_blank"}.
+I am a Physics Ph.D student at Boston University. My research interests are in quantum computing and condensed matter theory.
 
-[CV (Oct. 2020)](http://hjkqubit.github.io/assets/pdf/cv.pdf){:target="\_blank"}.
+I received my B.A. in Physics at Williams College.
 
+[CV (June  2021)](http://hjkqubit.github.io/assets/pdf/cv.pdf){:target="\_blank"}.
+    
 My contacts are displayed below.
