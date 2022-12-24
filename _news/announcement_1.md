@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-09-02 02:45:00+0900
 inline: true
 ---
 
-A simple inline announcement.
+I will be attending Boston University to pursue a Ph.D in Physics!
