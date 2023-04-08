@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Physics Ph.D student at Boston University. My research interests are in quantum integrability and chaos in many-body systems, and tensor network algorithms.
+I am a second year physics Ph.D student at Boston University, advised by [Anatoli Polkovnikov](http://physics.bu.edu/~asp28/){:target="\_blank"}. My research interests are in quantum integrability and chaos in many-body systems, and tensor network algorithms.
 
-I received my B.A. in Physics at Williams College.
+I received my B.A. in physics at Williams College.
 
-[CV (December  2022)](https://hjkqubit.github.io/assets/pdf/cv2022.pdf){:target="\_blank"}.
+[CV (April 2023)](https://hjkqubit.github.io/assets/pdf/cv2023.pdf){:target="\_blank"}.

@@ -24,7 +24,7 @@
   type: time_table
   contents:
     - title: Research Fellow
-      institution: Boston University
+      institution: Department of Physics, Boston University
       year: 2022-present
       description:
         - Advised by Anatoli Polkovnikov
@@ -38,18 +38,28 @@
         - Developing a novel tensor network method to propagate eigenstates of many‑body systems over the parameter space via the quantum geometric tensor.
 
     - title: Research Assistant
-      institution: Williams College
+      institution: Department of Physics, Williams College
       year: 2019-2021
       description:
         - Advised by Frederick Strauch
         - Analytically developed and numerically optimized gate pulses for fast, high‑fidelity gates on a parametrically coupled, fixed‑frequency transmon architecture.
 
     - title: Research Assistant
-      institution: Williams College
+      institution: Department of Physics, Williams College
       year: 2018
       description: 
         - Advised by Katharine Jensen
         - Investigated the mechanics of adhesive contacts of rigid glass spheres with silicone gel surfaces of varying Young’s modulus.
+
+- title: Talks
+  type: time_table
+  contents:
+    - title: (Invited) Computing Excited States via Adiabatic Transformations
+      institution: Department of Physics, New York University
+      year: 2023
+    - title: Integrable Attractors in the Adiabatic Landscape of Chaotic Systems
+      institution: APS March Meeting 2023
+      year: 2023
 
 - title: Honors and Awards
   type: time_table
