@@ -19,4 +19,4 @@ I am a third year physics Ph.D student at Boston University, advised by [Anatoli
 
 I received my B.A. in physics at Williams College.
 
-[CV (April 2023)](https://hjkqubit.github.io/assets/pdf/cv2023.pdf){:target="\_blank"}.
+[CV (November 2023)](https://hjkqubit.github.io/assets/pdf/cv2023.pdf){:target="\_blank"}.

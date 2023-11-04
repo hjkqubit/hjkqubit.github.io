@@ -3,5 +3,9 @@
     url: https://as.nyu.edu/faculty/dries-sels.html
 
 "Polkovnikov":
-  - firstname: ["Anatoli", "A."]
+  - firstname: ["Anatoli", "A.", "A. S."]
     url: https://physics.bu.edu/~asp28/
+
+"Fishman":
+  - firstname: ["Matthew", "M.", "M. T.", "Matt", "Matthew T.", "Matt T."]
+    url: https://https://mtfishman.github.io/
