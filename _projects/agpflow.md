@@ -5,6 +5,7 @@ description: a research project on quantum integrability landscape with Anatoli 
 img:
 importance: 1
 category: research
+related_publications: kim2023integrability
 ---
 
 Tune back for updates...
