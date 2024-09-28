@@ -1,25 +1,3 @@
-- title: About Me
-  type: map
-  contents:
-    - name: Full Name
-      value: Hyeongjin Kim
-    - name: Languages
-      value: English, Korean
-
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. in Physics
-      institution: Boston University
-      year: 2021-present
-      description:
-        - Advised by Anatoli Polkovnikov
-    - title: B.A. in Physics
-      institution: Williams College
-      year: 2017-2021
-      description:
-        - Advised by Frederick Strauch
-
 - title: Research Experience
   type: time_table
   contents:
@@ -51,34 +29,16 @@
         - Advised by Katharine Jensen
         - Investigated the mechanics of adhesive contacts of rigid glass spheres with silicone gel surfaces of varying Young’s modulus.
 
-- title: Talks
+- title: Education
   type: time_table
   contents:
-    - title: Adiabatic evolution of matrix product states with the adiabatic gauge potential
-      institution: Department of Physics, Boston University
-      year: 2023
-    - title: (Invited) Adiabatic evolution of matrix product states with the adiabatic gauge potential
-      institution: Center for Computational Quantum Physics, Simons Foundation
-      year: 2023
-    - title: (Invited) Computing Excited States via Adiabatic Transformations
-      institution: Department of Physics, New York University
-      year: 2023
-    - title: Integrable Attractors in the Adiabatic Landscape of Chaotic Systems
-      institution: APS March Meeting 2023
-      year: 2023
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2021
-      items: 
-        - Phi Beta Kappa Induction, PBK
-    - year: 2018-2020
-      items: 
-        - Summer Science Research Fellowship, Williams College
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: quantum chaos and integrability
-    - title: tensor network algorithms
+    - title: Ph.D. in Physics
+      institution: Boston University
+      year: 2021-present
+      description:
+        - Advised by Anatoli Polkovnikov
+    - title: B.A. in Physics
+      institution: Williams College
+      year: 2017-2021
+      description:
+        - Advised by Frederick Strauch
