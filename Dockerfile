@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ruby:3.1
 ENV DEBIAN_FRONTEND noninteractive
 
 Label MAINTAINER Amir Pourmand
@@ -37,5 +37,6 @@ RUN bundle install --no-cache
 EXPOSE 8080
 
 COPY bin/entry_point.sh /tmp/entry_point.sh
+RUN chmod +x /tmp/entry_point.sh
 
 CMD ["/tmp/entry_point.sh"]

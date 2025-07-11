@@ -19,4 +19,4 @@ I am a fourth year physics Ph.D student at Boston University, advised by Profess
 
 I received my B.A. in physics at Williams College, advised by Professor [Frederick Strauch](https://physics.williams.edu/profile/fws1/){:target="\_blank"}.
 
-For a more detailed summary, please check out my [cv](https://hjkqubit.github.io/assets/pdf/cv2024.pdf){:target="\_blank"}!
+For a more detailed summary, please check out my [cv](https://hjkqubit.github.io/assets/pdf/cv2025.pdf){:target="\_blank"}!
