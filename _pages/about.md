@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an incoming applied scientist at Amazon's Center for Quantum Computing based in San Francisco. 
+I am an incoming applied scientist at the Amazon Center for Quantum Computing, where I will be based in San Francisco. 
 
 My interests are in numerical simulations of many-body systems, quantum computing, and tensor network algorithms.
 
